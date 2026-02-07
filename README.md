@@ -55,13 +55,14 @@ The task of building a Speech Recognition System in Tinkercad involves simulatin
   6)Security Systems
 - Voice recognition can be used for authentication and access control.
 - Adds an extra layer of biometric security.
-
-  *OUTPUT*
-  <img width="1284" height="750" alt="Image" src="https://github.com/user-attachments/assets/99ba8d3d-37c9-4420-984e-ec320cd62240" />
   
   7)Entertainment and Gaming
 - Voice-controlled games and interactive systems create immersive experiences.
 - Enhances user engagement and creativity.
+
+  
+  *OUTPUT*
+  <img width="1284" height="750" alt="Image" src="https://github.com/user-attachments/assets/99ba8d3d-37c9-4420-984e-ec320cd62240" />
 
   
 
